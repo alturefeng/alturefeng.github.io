@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/01/24/test/</loc>
+    
+    <lastmod>2018-01-24T02:44:20.429Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/01/24/test1/</loc>
+    
+    <lastmod>2018-01-24T02:41:43.875Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/01/24/yelee%20use/</loc>
     
     <lastmod>2018-01-24T02:36:25.288Z</lastmod>
