@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/01/24/yelee%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8/</loc>
+    
+    <lastmod>2018-01-24T03:37:48.482Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/01/24/hexo%E4%BD%BF%E7%94%A8/</loc>
     
     <lastmod>2018-01-24T03:13:01.725Z</lastmod>
@@ -12,27 +19,6 @@
     <loc>http://yoursite.com/tags/index.html</loc>
     
     <lastmod>2018-01-24T02:55:00.654Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/01/24/test/</loc>
-    
-    <lastmod>2018-01-24T02:49:01.084Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/01/24/test1/</loc>
-    
-    <lastmod>2018-01-24T02:48:47.900Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/01/24/yelee%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8/</loc>
-    
-    <lastmod>2018-01-24T02:46:28.384Z</lastmod>
     
   </url>
   
